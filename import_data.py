@@ -6,7 +6,7 @@ def import_data():
     entries = os.listdir('data/')
     for filename in entries:
         if 'csv' in filename:
-            print(filename)
+            #print(filename)
             df =(pd.read_csv('data/'+filename))
             #df.columns = df.iloc[0]
             months[filename.replace('.csv','')] = df

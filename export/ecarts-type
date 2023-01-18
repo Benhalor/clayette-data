@@ -1,0 +1,52 @@
+{'key': 'MARDI GRAS', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'CHANGE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': '3 MELONS', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'RHUBARBE FRAISE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'FAMILIALE', 'std': 0.0, 'nombre_lignes': 3}
+{'key': 'POTMARRON ET RADIS', 'std': 0.0, 'nombre_lignes': 1}
+{'key': '1,5KG PRUNES', 'std': 0.0, 'nombre_lignes': 1}
+{'key': '3 MELONS ', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'ENSOLEILEE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'POT AU FEU', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'TENDANCE ', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'CREPE LOCALE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': '500G CERISE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'LA DOUZE POMMES', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'DINER AUX CHANDELLES', 'std': 0.0, 'nombre_lignes': 1}
+{'key': '1KG RHUBARBE', 'std': 0.0, 'nombre_lignes': 1}
+{'key': 'NOEL', 'std': 0.45, 'nombre_lignes': 4}
+{'key': 'POMME RHUBARBE ', 'std': 0.45, 'nombre_lignes': 2}
+{'key': 'PETIT DEJEUNER', 'std': 0.64, 'nombre_lignes': 3}
+{'key': 'POMME RHUBARBE', 'std': 0.73, 'nombre_lignes': 4}
+{'key': 'DU JOUR', 'std': 0.76, 'nombre_lignes': 7}
+{'key': 'DU PLACARD', 'std': 0.83, 'nombre_lignes': 4}
+{'key': 'CONFIT DE CANARD', 'std': 1.24, 'nombre_lignes': 3}
+{'key': 'CONFIT DE CANARD 2 CUISSES', 'std': 1.26, 'nombre_lignes': 2}
+{'key': 'POMMEE', 'std': 1.31, 'nombre_lignes': 45}
+{'key': 'SALADE MON CHOU', 'std': 1.38, 'nombre_lignes': 2}
+{'key': 'APERO', 'std': 1.4, 'nombre_lignes': 53}
+{'key': 'EN TERRASSE', 'std': 1.93, 'nombre_lignes': 21}
+{'key': 'TRUFFES', 'std': 2.01, 'nombre_lignes': 7}
+{'key': 'DOUZE POMMES', 'std': 2.09, 'nombre_lignes': 3}
+{'key': '1,5KG PRUNE', 'std': 2.22, 'nombre_lignes': 2}
+{'key': 'RACLETTE', 'std': 2.23, 'nombre_lignes': 25}
+{'key': 'LA DOUZE POMME', 'std': 2.53, 'nombre_lignes': 8}
+{'key': 'TWO P', 'std': 2.56, 'nombre_lignes': 29}
+{'key': 'TOMATOS', 'std': 2.68, 'nombre_lignes': 2}
+{'key': 'MOMENT', 'std': 2.74, 'nombre_lignes': 31}
+{'key': 'TWO P ', 'std': 2.75, 'nombre_lignes': 9}
+{'key': 'SOUPE ET POTEE', 'std': 2.91, 'nombre_lignes': 29}
+{'key': 'FOIE GRAS ', 'std': 3.33, 'nombre_lignes': 5}
+{'key': '500G FRAISE', 'std': 3.38, 'nombre_lignes': 10}
+{'key': 'CROQUANTE', 'std': 3.4, 'nombre_lignes': 4}
+{'key': 'TARTIFLETTE', 'std': 3.75, 'nombre_lignes': 2}
+{'key': 'DES 6', 'std': 3.79, 'nombre_lignes': 23}
+{'key': 'SOLO DUO', 'std': 4.09, 'nombre_lignes': 64}
+{'key': 'COLOREE', 'std': 4.2, 'nombre_lignes': 5}
+{'key': 'AUTOMNALE', 'std': 4.33, 'nombre_lignes': 7}
+{'key': 'QUI CHANGE', 'std': 4.37, 'nombre_lignes': 57}
+{'key': 'FRUITS DE SAISON', 'std': 4.98, 'nombre_lignes': 14}
+{'key': '750G CERISE', 'std': 5.82, 'nombre_lignes': 7}
+{'key': '1KG ASPERGE', 'std': 5.86, 'nombre_lignes': 7}
+{'key': '1KG FRAISE', 'std': 5.9, 'nombre_lignes': 12}
+{'key': '1,5KG MIRABELLE', 'std': 10.47, 'nombre_lignes': 5}
